@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bebru2k1/blog.git",
+  "license": "MIT",
+  "scripts": {
+    "start" : "nodemon index.js"
+  },
+  "dependencies": {
+    "argon2": "^0.27.2",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

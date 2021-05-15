@@ -1,0 +1,7 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bebru2k1/blog.git",
+  "license": "MIT"
+}
